@@ -1,0 +1,19 @@
+
+$ cat > q5.txt
+“You have to dream before the dream comes true.” —Dr A.P.J Abdul Kalam
+
+“The bird is powered by its own life and by its motivation.” ― Dr A.P.J Abdul Kalam
+“One best book is equal to a hundred good friends, but one good friend is equal to a library.” — Abdul Kalam
+“We Should not give up and we should not allow the problem to defeat us.” ― Dr A.P.J Abdul Kalam
+“All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents.” ― Dr A.P.J Abdul Kalam
+“Thinking is the capital, an enterprise is a way, and hard work is the solution.” ― Abdul Kalam
+“Dream, Dream, Dream, Dream transform into thoughts and thoughts result in action.” ― Dr. Dr A.P.J Abdul Kalam
+“The essence of a happy life and a peaceful society lies in one sentence – What can I Give?” ― Abdul Kalam
+“Confidence and hard-work is the best medicine to kill the disease called failure. it will make you a successful person.” ― APJ Abdul Kalam
+abdul kalam quotes for students
+
+“Life is a difficult game. You can win it only by retaining your birthright to be a person.” ― Abdul Kalam
+
+Result
+$ cat q5.txt
+
